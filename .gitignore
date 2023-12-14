@@ -1,4 +1,5 @@
 train/* 
 resized/* 
 test1/* 
-models/*
+models/* 
+checkpoint/*
