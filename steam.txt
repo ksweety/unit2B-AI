@@ -110,4 +110,5 @@ A: Certainly, check in with our alumni messages, which will include details abou
 Q: What are the STEAM Center pathways? 
 A: Full Stack Development, CyberSecurity, Culinary, Film & Media, Construction, Design & Engineering  
 
-Q: 
+Q: How is the 
+A:
